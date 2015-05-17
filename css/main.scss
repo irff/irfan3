@@ -1,52 +1,86 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
 
+@import "reset",
+        "frame",
+		"typography";
 
+header {
+    text-align: center;
+}
 
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+header img {
+    margin: 10px 0 5px;
+    width: 200px;
+    -webkit-wmoz-border-radius: 50%;
+    -moz-wmoz-border-radius: 50%;
+    -ms-wmoz-border-radius: 50%;
+    -o-wmoz-border-radius: 50%;
+    border-radius: 50%;
+}
 
-$spacing-unit:     30px;
+.links {
+    padding: 0;
+	li {
+    	list-style-type: none;
+	}
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+	a {
+	    font-size: 1.2em;
+	    display: inline-block;
+	    text-decoration: none;
+	    color: #222;
+	    border: 1px dotted #777;
+	    padding: 10px;
+	    margin: 0 10px 15px 0;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+	    &:hover {
+	    	color: #fff;
+	    	background-color: #777;
+	    }
+	}
+}
 
-// Width of the content area
-$content-width:    800px;
+.line {
+	display: block;
+	height: 1px;
+	width: 200px;
+	margin: 10px auto;
+	background-color: #777;
+}
 
-$on-palm:          600px;
-$on-laptop:        800px;
+footer {
+	text-align: center;
 
-
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+	p {
+		margin: 20px 0 0;
+	}
 }
 
 
+@media screen and (max-width: 900px) {
+    body {
+        max-width: 720px;
+    }
+    .links {
+        padding: 0;
+    }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+    .links li {
+        display: inline;
+        float: left;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .links li {
+        display: block;
+        float: none;
+    }
+
+    .links li a {
+        margin: 0 0 15px 0;
+        display: block;
+    }
+}
