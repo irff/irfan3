@@ -1,8 +1,10 @@
 body{
-	 font-size: 13px;
+	 font-size: 17px;
+	 line-height: 1.53;
 	 font-family: "PT Serif";
 	 font-style: normal;
 	 font-weight: 400;
+	 color: $text-color;
 }
 
 p.weight1{
@@ -21,7 +23,7 @@ p.weight2{
 	 line-height: 30px;
 }
 
-p.weight3{
+p.weight3 {
 	 font-family: "PT Serif";
 	 font-weight: 700;
 	 font-style: italic;
@@ -38,15 +40,25 @@ p.weight4{
 }
 
 h1{
-	 font-size: 64px;
-	 line-height: 73px;
+	 font-size: 36px;
+	 line-height: 42px;
 	 margin-bottom: 25px;
+}
+
+h3 {
+	margin: 25px 0 10px;
 }
 
 p{
 	 font-size: 17px;
 	 line-height: 26px;
 	 margin-bottom: 35px;
+}
+
+ul {
+	li {
+		margin: 5px 0;
+	}
 }
 
 p.weights{

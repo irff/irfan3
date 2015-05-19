@@ -1,6 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+$text-color: rgba(50,50,50,1);
 
 @import "reset",
         "frame",
@@ -20,21 +21,35 @@ header img {
     border-radius: 50%;
 }
 
+.content a {
+	color: $text-color;
+	text-decoration: none;
+	border-bottom: 1px dotted #777;
+
+	&:hover {
+		border: none;
+	}
+}
+
 .links {
+	text-align: right;
     padding: 0;
+    font-size: 15px;
 	li {
     	list-style-type: none;
 	}
 
 	a {
-	    font-size: 1.2em;
 	    display: inline-block;
 	    text-decoration: none;
 	    color: #222;
-	    border: 1px dotted #777;
 	    padding: 10px;
-	    margin: 0 10px 15px 0;
-
+	    margin: 0 10px 10px 0;
+		-webkit-border-radius: 0 7px 0 7px;
+		-moz-border-radius: 0 7px 0 7px;
+		-ms-border-radius: 0 7px 0 7px;
+		-o-border-radius: 0 7px 0 7px;
+		border-radius: 0 7px 0 7px;
 	    &:hover {
 	    	color: #fff;
 	    	background-color: #777;
@@ -50,6 +65,20 @@ header img {
 	background-color: #777;
 }
 
+.nav-title {
+	text-align: right;
+	&.pages {
+		p {
+			margin: 0 20px 10px 0;
+		}
+	}
+	p {
+		font-style: italic;
+		margin: 5px 20px 10px 0;
+		font-size: 1.2em;
+	}
+}
+
 footer {
 	text-align: center;
 
@@ -58,6 +87,13 @@ footer {
 	}
 }
 
+hr {
+	display: block;
+	height: 1px;
+	width: 200px;
+	margin: 30px auto;
+	background-color: #aaa;
+}
 
 @media screen and (max-width: 900px) {
     body {

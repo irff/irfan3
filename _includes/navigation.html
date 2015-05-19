@@ -1,0 +1,16 @@
+<div class="links">
+	<div class="nav-title pages">
+		<p>Pages</p>
+	</div>
+	<ul>
+	{% assign page = (site.page | sort: 'order') %}
+	{% for pg in page %}
+		<li>
+			<a href="{{ pg.url }}">{{ pg.title }}</a>
+		</li>
+	{% endfor %}
+		<li>
+			<a href="/blog.html">Blog</a>
+		</li>
+	</ul>
+</div>
