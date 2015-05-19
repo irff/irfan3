@@ -21,6 +21,7 @@ After reading Hacking Your Education, a book written by Dale J. Stephens, I deci
 ### 4. Economics
 * Economics: A User's Guide, by Ha-Joon Chang &dagger;
 * The Wealth of Nations, by Adam Smith &#8227;
+* [Principle of Microeconomics Course at MIT, by Jonathan Gruber](http://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/) &#8227;
 * The 23 Things They Don't Tell You About Capitalism, by Ha-Joon Chang
 * The Road to Serfdom, by F. A. Hayek
 * Capital, by Karl Marx
@@ -38,6 +39,7 @@ After reading Hacking Your Education, a book written by Dale J. Stephens, I deci
 
 ### 5. Philosophy
 * The Republic, by Plato &#8227;
+* [General Philosophy Course at Oxford, by Peter Millican](https://podcasts.ox.ac.uk/series/general-philosophy) &#8227;
 * The Consolations of Philosophy, by Alain de Botton
 * Sophie's World, by Jostein Gaarder
 * The Art of War, by Niccolo Machiavelli
