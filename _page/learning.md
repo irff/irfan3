@@ -12,6 +12,7 @@ After reading Hacking Your Education, a book written by Dale J. Stephens, I deci
 
 ### 2. Server Infrastructure & Architecture
 * [Distributed System for Fun and Profit, by Mikito Takeda](http://book.mixu.net/distsys/single-page.html)
+* [Server for Hackers, by Chris Fidao](https://book.serversforhackers.com/)
 
 ### 3. Business and Management
 * The Lean Startup, by Eric Ries
@@ -40,6 +41,8 @@ After reading Hacking Your Education, a book written by Dale J. Stephens, I deci
 ### 5. Philosophy
 * The Republic, by Plato &#8227;
 * [General Philosophy Course at Oxford, by Peter Millican](https://podcasts.ox.ac.uk/series/general-philosophy) &#8227;
+* [History of Philosophy without any gaps](http://www.historyofphilosophy.net/)
+* [Critical Reasoning for Beginners Course at Oxford, by Marianne Talbot](http://podcasts.ox.ac.uk/series/critical-reasoning-beginners)
 * The Consolations of Philosophy, by Alain de Botton
 * Sophie's World, by Jostein Gaarder
 * The Art of War, by Niccolo Machiavelli
@@ -53,6 +56,9 @@ After reading Hacking Your Education, a book written by Dale J. Stephens, I deci
 * Beyond Good and Evil, by Friedrich Nietzsche
 
 ### 6. Design
+* The Design of Everyday Things, by Donald A. Norman
+* The Shape of Design, by Frank Chimero
+* Simple and Usable, by Giles Colborne
 
 ### 7. Literature & Art Critique
 
@@ -62,6 +68,7 @@ After reading Hacking Your Education, a book written by Dale J. Stephens, I deci
 * Hacking Your Education, by Dale J. Stephens &dagger;
 * Creative Schools, by Sir Ken Robinson
 * The Education of Millionnaires, by Michael Ellsberg
+* The One World Schoolhouse: Education Reimagined, by Salman Khan
 
 ### 10. History
 
