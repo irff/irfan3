@@ -1,4 +1,4 @@
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "http://irfan3.me" # the subpath of your site, e.g. /blog/
 
 collections:
   page:
