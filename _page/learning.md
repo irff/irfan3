@@ -4,7 +4,7 @@ title: Learning
 order: 1
 ---
 
-After reading Hacking Your Education, a book written by Dale J. Stephens, I decided to try one tips offered by him. By not attending formal education, he has to learn by himself, so he decided to list the things that he really wanted to learn and the sources. So here's 10 thing I wanted to learn, and the resources to learn them.
+After reading [Hacking Your Education](http://www.amazon.com/gp/product/0399159967), a book written by Dale J. Stephens, I decided to try one tips offered by him. By not attending formal education, he has to learn by himself, so he decided to list the things that he really wanted to learn and the sources. So here's 10 thing I wanted to learn, and the resources to learn them.
 
 ### 1. Software Engineering
 * The Pragmatic Programmer, by Andrew Hunt and David Thomas
