@@ -4,21 +4,26 @@ layout: page
 order: 2
 ---
 
-*Last Updated: May 18, 2015*
+*Last Updated: July 25, 2015*
 
-### January - June 2015 Reading List
+### July - December 2015 Reading List
 
 ### Currently
 
   * *The Wealth of Nations,* by Adam Smith
   * *The Republic,* by Plato
-
+  * *Busines Adventures,* by John Brooks
+  * *The Datacenter as a Computer,* by Barroso, Cildaras, Holzle
+  
 ### Up Next
+  * *Elon Musk,* by Ashley Vance
+
+* * *
+
+### January - June 2015 Reading List [7 items]
 
   * *The Effective Engineers,* by Edmond Lau
-
-### Recently
-
+  * *Karena Selama Hidup Kita Belajar,* by Faldo Maldini
   * *Hacking Your Education,* by Dale J. Stephens
   * *The Hard Things about Hard Things,* by Ben Horowitz
   * *Economics: The User Guide,* by Ha-Joon Chang *

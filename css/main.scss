@@ -5,10 +5,14 @@ $text-color: rgba(50,50,50,1);
 
 @import "reset",
         "frame",
-		"typography";
+		"typography",
+        "styles";
 
 header {
-    text-align: center;
+  text-align: center;
+  h1 {
+    margin: 0 0 15px;
+  }
 }
 
 header img {
@@ -58,33 +62,11 @@ header img {
 }
 
 .line {
-	display: block;
-	height: 1px;
-	width: 200px;
-	margin: 10px auto;
-	background-color: #777;
-}
-
-.nav-title {
-	text-align: right;
-	&.pages {
-		p {
-			margin: 0 20px 10px 0;
-		}
-	}
-	p {
-		font-style: italic;
-		margin: 5px 20px 10px 0;
-		font-size: 1.2em;
-	}
-}
-
-footer {
-	text-align: center;
-
-	p {
-		margin: 20px 0 0;
-	}
+  display: block;
+  height: 1px;
+  width: 200px;
+  margin: 15px auto 10px;
+  background-color: #777;
 }
 
 hr {
