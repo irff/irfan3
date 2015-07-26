@@ -145,11 +145,9 @@ hr {
   }
 
   .links {
-    width: 100%;
     text-align: center;
     li {
-      width: 25%;
-      float: left;
+      display: inline;
     }
     a {
       color: $text-color;
