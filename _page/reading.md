@@ -16,7 +16,7 @@ order: 2
   * *The Datacenter as a Computer,* by Barroso, Cildaras, Holzle
   
 ### Up Next
-  * *Elon Musk,* by Ashley Vance
+  * *Elon Musk,* by Ashlee Vance
 
 * * *
 

@@ -7,17 +7,23 @@ order: 1
 After reading [Hacking Your Education](http://www.amazon.com/gp/product/0399159967), a book written by Dale J. Stephens, I decided to try one tips offered by him. By not attending formal education, he has to learn by himself, so he decided to list the things that he really wanted to learn and the sources. So here's 10 thing I wanted to learn, and the resources to learn them.
 
 ### 1. Software Engineering
+* [Functional Programming Principles in Scala at EPFL, by Martin Odersky](https://www.coursera.org/course/progfun) &#8227;
+* The Effective Engineer, by Edmond Lau &dagger;
+* Release It!, by Michael T. Nygard
 * The Pragmatic Programmer, by Andrew Hunt and David Thomas
-* The Effective Engineer, by Edmond Lau
+* Programming in Scala, by Martin Odersky
 
 ### 2. Server Infrastructure & Architecture
+* [The Datacenter as a Computer](http://www.morganclaypool.com/doi/abs/10.2200/S00516ED2V01Y201306CAC024)
 * [Distributed System for Fun and Profit, by Mikito Takeda](http://book.mixu.net/distsys/single-page.html)
 * [Server for Hackers, by Chris Fidao](https://book.serversforhackers.com/)
 
 ### 3. Business and Management
-* The Lean Startup, by Eric Ries
-* Zero to One, by Peter Thiel
-* The Hard Things about Hard Things, by Ben Horowitz
+* Business Adventures, by John Brooks &#8227;
+* The Lean Startup, by Eric Ries &dagger;
+* Zero to One, by Peter Thiel &dagger;
+* The Hard Things about Hard Things, by Ben Horowitz &dagger;
+* Elon Musk, by Ashlee Vance
 
 ### 4. Economics
 * Economics: A User's Guide, by Ha-Joon Chang &dagger;
@@ -71,7 +77,7 @@ After reading [Hacking Your Education](http://www.amazon.com/gp/product/03991599
 * The One World Schoolhouse: Education Reimagined, by Salman Khan
 
 ### 10. History
+* Sapiens: A Brief History of Humankind, Yuval Noah Harari
 
-<br />
 &#8227; = I'm currently learning the item <br />
 &dagger; = I have completed the item
