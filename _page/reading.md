@@ -4,7 +4,7 @@ layout: page
 order: 2
 ---
 
-*Last Updated: July 25, 2015*
+*Last Updated: August 7, 2015*
 
 ### July - December 2015 Reading List
 
@@ -13,10 +13,12 @@ order: 2
   * *The Wealth of Nations,* by Adam Smith
   * *The Republic,* by Plato
   * *Busines Adventures,* by John Brooks
+  * *The Consolations of Philosophy,* by Alain de Botton
   * *The Datacenter as a Computer,* by Barroso, Cildaras, Holzle
   
 ### Up Next
   * *Elon Musk,* by Ashlee Vance
+  * *The Worldly Philosophers,* by Robert L. Heilbroner
 
 * * *
 
