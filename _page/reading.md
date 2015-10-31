@@ -4,21 +4,31 @@ layout: page
 order: 2
 ---
 
-*Last Updated: August 7, 2015*
+*Last Updated: October 31, 2015*
 
 ### July - December 2015 Reading List
 
 ### Currently
-
+  * *Mastery,* by Robert Greene
+  * *Dune,* by Frank Herbert
   * *The Wealth of Nations,* by Adam Smith
   * *The Republic,* by Plato
-  * *Busines Adventures,* by John Brooks
-  * *The Consolations of Philosophy,* by Alain de Botton
   * *The Datacenter as a Computer,* by Barroso, Cildaras, Holzle
   
 ### Up Next
+  * *The Personal MBA,* by Josh Kaufman
+  * *Delivering Happiness,* by Toni Hsieh
   * *Elon Musk,* by Ashlee Vance
   * *The Worldly Philosophers,* by Robert L. Heilbroner
+
+### Read
+  * *The Stranger,* by Albert Camus *
+  * *1984,* by George Orwell
+  * *Tao Te Ching,* by Lao Tzu
+  * *The Startup of You,* by Reid Hoffman
+  * *Busines Adventures,* by John Brooks *
+  * *The Consolations of Philosophy,* by Alain de Botton
+  * *The Happiness of Pursuit,* by Chris Guillebeau
 
 * * *
 
@@ -163,11 +173,11 @@ order: 2
   * *A Christmas Carol (Oxford),* by Charles Dickens
   * *The Farthest Shore,* by Ursula K. Le Guin *
   * *Justice (Oxford),* by Tim Vicary
-  * * The Picture of Dorian Gray (Oxford),* by Oscar Wilde
+  * *The Picture of Dorian Gray (Oxford),* by Oscar Wilde
   * *Kopi Merah Putih,* by Indonesia Anonymus
   * *The Effortless Life,* by Leo Babauta
   * *3 Seni yang Lupa Diajarkan di Sekolah,* by Rita Gouw
-  * *Risalah Bala, *by Badiuzzaman Said Nursi *
+  * *Risalah Bala,* by Badiuzzaman Said Nursi *
   * *Sukses Tanpa Gelar,* by Andrias Harefa
   * *Jakarta Kafe : Kumpulan Cerita,* by Tatyana
   * *Supernova: Petir,* by Dewi Lestari

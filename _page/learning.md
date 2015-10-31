@@ -4,7 +4,7 @@ title: Learning
 order: 1
 ---
 
-*Last Updated: August 7, 2015*
+*Last Updated: October 31, 2015*
 
 After reading [Hacking Your Education](http://www.amazon.com/gp/product/0399159967), a book written by Dale J. Stephens, I decided to try one tips offered by him. By not attending formal education, he has to learn by himself, so he decided to list the things that he really wanted to learn and the sources. So here's 10 thing I wanted to learn, and the resources to learn them.
 
@@ -21,7 +21,7 @@ After reading [Hacking Your Education](http://www.amazon.com/gp/product/03991599
 
 ### 2. Server Infrastructure & Architecture
 * [The Datacenter as a Computer](http://www.morganclaypool.com/doi/abs/10.2200/S00516ED2V01Y201306CAC024)
-* [Distributed System for Fun and Profit, by Mikito Takeda](http://book.mixu.net/distsys/single-page.html)
+* [Distributed System for Fun and Profit, by Mikito Takeda](http://book.mixu.net/distsys/single-page.html) &dagger;
 * [Server for Hackers, by Chris Fidao](https://book.serversforhackers.com/)
 
 ### 3. Business and Management
@@ -32,6 +32,7 @@ After reading [Hacking Your Education](http://www.amazon.com/gp/product/03991599
 * Elon Musk, by Ashlee Vance
 * The Startup Owner's Manual, by Steve Blank
 * The Four Steps to Epiphany, by Steve Blank
+* The Personal MBA, by Josh Kaufman
 
 ### 4. Economics
 * Economics: A User's Guide, by Ha-Joon Chang &dagger;
@@ -51,11 +52,12 @@ After reading [Hacking Your Education](http://www.amazon.com/gp/product/03991599
 * The General Theory of Employment, Interest, and Money, by John Maynard Keynes
 * Individualism and Economic Order,by F.A. Hayek
 * Bad Samaritans, by Ha-Joong Chang
+* Why Nations Fail, by Daron Acemoglu & James A Robinson
 
 ### 5. Philosophy
 * The Republic, by Plato &#8227;
 * [General Philosophy Course at Oxford, by Peter Millican](https://podcasts.ox.ac.uk/series/general-philosophy) &#8227;
-* The Consolations of Philosophy, by Alain de Botton &#8227;
+* The Consolations of Philosophy, by Alain de Botton &dagger;
 * [History of Philosophy without any gaps](http://www.historyofphilosophy.net/)
 * [Critical Reasoning for Beginners Course at Oxford, by Marianne Talbot](http://podcasts.ox.ac.uk/series/critical-reasoning-beginners)
 * Sophie's World, by Jostein Gaarder
@@ -65,9 +67,10 @@ After reading [Hacking Your Education](http://www.amazon.com/gp/product/03991599
 * On the Shortness of Life, by Seneca
 * Essays, by Montaigne
 * Nicomachean Ethics, by Aristotle
-* The Stranger, by Albert Camus
+* The Stranger, by Albert Camus &dagger;
 * History of Western Philosophy, by Bertrand Russel
 * Beyond Good and Evil, by Friedrich Nietzsche
+* The End of History and The Last Man, by Francis Fukuyama
 
 ### 6. Design
 * The Design of Everyday Things, by Donald A. Norman
@@ -80,6 +83,7 @@ After reading [Hacking Your Education](http://www.amazon.com/gp/product/03991599
 
 ### 9. Education & Cognitive Science
 * Hacking Your Education, by Dale J. Stephens &dagger;
+* Mastery, by Robert Greene &#8227;
 * How We Learn, by Benedict Carey
 * Creative Schools, by Sir Ken Robinson
 * The Education of Millionnaires, by Michael Ellsberg
@@ -87,6 +91,7 @@ After reading [Hacking Your Education](http://www.amazon.com/gp/product/03991599
 
 ### 10. History
 * Sapiens: A Brief History of Humankind, Yuval Noah Harari
+* Guns, Germs, and Steel, by Jared Diamond
 
 &#8227; = I'm currently learning the item <br />
 &dagger; = I have completed the item
