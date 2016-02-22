@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+<h1>Blog</h1>
+<ul>
+    {% for post in site.posts %}
+    <li>
+        <a href="{{ post.url }}"> <span style="font-family: monospace;">{{ post.date | date: "%b %d, %Y" }} </span>{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

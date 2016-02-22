@@ -1,0 +1,17 @@
+<div class="links">
+	<ul>
+		<li>
+			<a href="{{ site.baseurl }}">Me</a>
+		</li>
+	{% assign page = (site.page | sort: 'order') %}
+	{% for pg in page %}
+		<li>
+			<a href="{{ pg.url }}">{{ pg.title }}</a>
+		</li>
+	{% endfor %}
+		<li>
+			<a href="{{ site.baseurl }}/blog.html">Blog</a>
+		</li>
+		<li><a href="mailto:triahmadirfan@gmail.com">Email me!</a></li>
+	</ul>
+</div>
